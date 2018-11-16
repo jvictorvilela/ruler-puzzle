@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/victor/NetBeansProjects/ruler-puzzle/src/ruler/puzzle/GameTree.java</file>
+            <file>file:/home/victor/NetBeansProjects/ruler-puzzle/src/ruler/puzzle/Game.java</file>
+            <file>file:/home/victor/NetBeansProjects/ruler-puzzle/src/ruler/puzzle/AStar.java</file>
+            <file>file:/home/victor/NetBeansProjects/ruler-puzzle/src/ruler/puzzle/Node.java</file>
+            <file>file:/home/victor/NetBeansProjects/ruler-puzzle/src/ruler/puzzle/Main.java</file>
+            <file>file:/home/victor/NetBeansProjects/ruler-puzzle/src/ruler/puzzle/Board.java</file>
+            <file>file:/home/victor/NetBeansProjects/ruler-puzzle/src/ruler/puzzle/IdaStar.java</file>
+            <file>file:/home/victor/NetBeansProjects/ruler-puzzle/src/ruler/puzzle/DataSolution.java</file>
+            <file>file:/home/victor/NetBeansProjects/ruler-puzzle/src/ruler/puzzle/UniformCostSearch.java</file>
+            <file>file:/home/victor/NetBeansProjects/ruler-puzzle/src/ruler/puzzle/DepthFirstSearch.java</file>
+            <file>file:/home/victor/NetBeansProjects/ruler-puzzle/src/ruler/puzzle/IterativeDepthFirstSearch.java</file>
+        </group>
+    </open-files>
+</project-private>
